@@ -9,7 +9,7 @@ A machine learning project that predicts the type of food from an uploaded image
 
 ## Project Structure
 - `app.py`: The main Streamlit web application.
-- `dl_food_classification.ipynb`: Jupyter Notebook containing the data preparation, model architecture, and training process.
+- `model_training.ipynb`: Jupyter Notebook containing the data preparation, model architecture, and training process.
 - `food_model.h5`: The trained Keras/TensorFlow model.
 - `class_labels.json`: A mapping of prediction indices to human-readable food names.
 - `dataset/`: Directory containing the training data.
